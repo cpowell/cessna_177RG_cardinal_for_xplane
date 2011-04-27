@@ -7,7 +7,8 @@ This RG model is based upon Sonny Lacey's outstanding B model.
 For more info: 
 http://cbpowell.wordpress.com/2011/02/17/cessna-177rg-cardinal-for-x-plane/
 
-Changelog:
+Pre-Git Changelog:
+(All later changes are reflected in the Git history.)
 
 2011-02-22:
 * Fabricated a proper Cessna manifold pressure / fuel flow gauge.
